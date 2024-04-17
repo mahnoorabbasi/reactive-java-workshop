@@ -1,0 +1,8 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "foo".(ò³­ÿýÿÿÿÿ
+C
+java:S1481"(Remove this unused "foo" local variable.(ò³­ÿýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ§±Ò
+M
+java:S1135"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ

@@ -1,0 +1,40 @@
+
+M
+java:S1135
+"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Æ„ô¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ„ô¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Æ„ô¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ„ô¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+[
+java:S1612 "@Replace this lambda with method reference 'System.out::println'.(Æ„ô¹ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Æ„ô¹ùÿÿÿÿ
+M
+java:S1135%"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¦×¤
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¦×¤
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ
+M
+java:S11353"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¼ğÙ¢úÿÿÿÿ
+U
+java:S16127"?Replace this lambda with method reference 'User::getFirstName'.(æö´
+[
+java:S16128"@Replace this lambda with method reference 'System.out::println'.(˜º÷ùÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(˜º÷ùÿÿÿÿ
+[
+java:S1612="@Replace this lambda with method reference 'System.out::println'.(˜º÷ùÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(˜º÷ùÿÿÿÿ
+U
+java:S1612A"?Replace this lambda with method reference 'User::getFirstName'.(æö´
+[
+java:S1612B"@Replace this lambda with method reference 'System.out::println'.(˜º÷ùÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(˜º÷ùÿÿÿÿ
